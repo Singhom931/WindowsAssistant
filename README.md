@@ -3,6 +3,15 @@ Important: Uses Gemini API
 
 ![meme](https://github.com/user-attachments/assets/9a226c98-57f9-4c02-a505-fe694fbc399a)
 
+
+Demo:
+
+https://github.com/user-attachments/assets/97deb705-8de9-4534-86a4-3a76c91de9b4
+
+
+https://github.com/user-attachments/assets/c1dbb01b-ff27-4150-b631-821ec6f667ed
+
+
 ## How to Get API Key and Use it:
 **Go to: https://aistudio.google.com/app/apikey**
 **Click Create API key**
