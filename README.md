@@ -28,5 +28,4 @@ Important: Uses Gemini API
 #### •Can Deal with multiple complex commands.
 #### •Can understand Natural Language.
 #### •BONUS: Has a Secret Unreleased SpongeBob mode with Spongebob Voice.
-#### •IS OPEN SOURCE and DOESN'T FEED YOUR DATA TO SOCIAL MEDIA ALGORITHMS.
 
